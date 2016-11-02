@@ -1,0 +1,6 @@
+{
+    "name": "cssdemo",
+    "scripts": {
+        "start": "anywhere -d ./cavnas-taiji -h localhost -p 8083"
+    }
+}
